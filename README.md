@@ -24,7 +24,7 @@
   [mostafaelnagar.ds@gmail.com](mailto:mostafaelnagar.ds@gmail.com)
 
 - 📄 **More About Me**:  
-  - 📄 [View My Resume](https://github.com/Mostafa-Elnagar/resume/blob/main/resume.pdf)
+  - 📄 [View My Resume](https://github.com/Mostafa-Elnagar/resume/blob/main/mostafa_elnagar_resume.pdf)
 
 ---
 
