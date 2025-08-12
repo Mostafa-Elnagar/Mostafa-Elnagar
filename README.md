@@ -26,7 +26,7 @@
 - Identified that 98% of connections were in the data-related field, indicating strong industry alignment.
 - Uncovered patterns in network composition and growth that informed personal branding and strategic outreach decisions.
 
-## 📌 Currently Building — TV Series Metadata & Ratings ETL Pipeline
+## 📌 Currently Building — [TV Series Metadata & Ratings ETL Pipeline](https://github.com/Mostafa-Elnagar/SeriesRatings)
 - Developing a scalable ETL pipeline to gather high-quality metadata and ratings for top-ranked TV series.
 - Accesses **TMDB** as the main source of data, enriched with ratings from **OMDB**, and scraped data from **Rotten Tomatoes** and **Metacritic**.
 - Designed to serve as a data foundation for **recommendation systems** and **chatbots**.
