@@ -7,7 +7,7 @@
 
 ---
 
-- 🚀 **Projects**:  
+##🚀 **Projects**:  
 ### [Automated Bike-Sharing Analytics Pipeline](https://github.com/Mostafa-Elnagar/FordGoBike-data-pipeline) | [Notebook](https://github.com/Mostafa-Elnagar/bikesharing_project)
 - Orchestrated a data pipeline with Airflow, PostgreSQL, and Docker to process over 3M trip records, powering a Power BI dashboard for real-time commuter insights.
 - Uncovered that rides under 30 minutes are most common during work commutes (7–9 AM and 4–6 PM), indicating usage for short-distance daily transport.
@@ -31,7 +31,7 @@
 - Accesses **TMDB** as the main source of data, enriched with ratings from **OMDB**, and scraped data from **Rotten Tomatoes** and **Metacritic**.
 - Designed to serve as a data foundation for **recommendation systems** and **chatbots**.
 
-### 🌱 **Currently Building & Learning**:  
+## 🌱 **Currently Building & Learning**:  
   - **Languages**: SQL, Python, Bash, DAX, Scala, Java
   - **BI Tools**: Power BI, Excel, Tableau  
   - **ETL & Pipelines**: Airflow, Power Query, Spark, Snowflake, BigQuery
@@ -41,7 +41,7 @@
   - **Version Control**: Git  
 
 
-### 📫 **Reach Me**:  
+## 📫 **Reach Me**:  
   [mostafaelnagar.ds@gmail.com](mailto:mostafaelnagar.ds@gmail.com)
 
 ---
