@@ -7,24 +7,42 @@
 
 ---
 
+- 🚀 **Projects**:  
+## [Automated Bike-Sharing Analytics Pipeline](https://github.com/Mostafa-Elnagar/FordGoBike-data-pipeline) | [Notebook](https://github.com/Mostafa-Elnagar/bikesharing_project)
+- Orchestrated a data pipeline with Airflow, PostgreSQL, and Docker to process over 3M trip records, powering a Power BI dashboard for real-time commuter insights.
+- Uncovered that rides under 30 minutes are most common during work commutes (7–9 AM and 4–6 PM), indicating usage for short-distance daily transport.
+- Identified that 70%+ of rides occur on workdays, with rush-hour peaks at 7–9 AM and 4–6 PM, enabling targeted resource allocation.
+
+---
+
+## [Customer Churn Analysis Dashboard](https://github.com/Mostafa-Elnagar/ChurnAnalysisDashboard)
+- Monitored KPIs across 7043 customers, revealing a churn rate of 26.54%.
+- Quantified $1.67M in revenue loss and tracked LTV before and after churn ($2.28K vs $2.55K), highlighting upsell opportunities and long-term value patterns.
+- Uncovered that customers with fewer services (1–2) had the highest churn rate (>40%) using a combo chart of churn vs. service count.
+
+---
+
+## [LinkedIn Data Visualization Dashboard](https://github.com/Mostafa-Elnagar/linkedin-dashboard)
+- Identified that 98% of connections were in the data-related field, indicating strong industry alignment.
+- Uncovered patterns in network composition and growth that informed personal branding and strategic outreach decisions.
+
+## 📌 Currently Building — TV Series Metadata & Ratings ETL Pipeline
+- Developing a scalable ETL pipeline to gather high-quality metadata and ratings for top-ranked TV series.
+- Accesses **TMDB** as the main source of data, enriched with ratings from **OMDB**, and scraped data from **Rotten Tomatoes** and **Metacritic**.
+- Designed to serve as a data foundation for **recommendation systems** and **chatbots**.
+
 - 🌱 **Currently Building & Learning**:  
   - **Languages**: SQL, Python, Bash, DAX, Scala, Java
   - **BI Tools**: Power BI, Excel, Tableau  
-  - **ETL & Pipelines**: Airflow, Power Query, Spark
-  - **Databases**: SQL Server, PostgreSQL, BigQuery  
+  - **ETL & Pipelines**: Airflow, Power Query, Spark, Snowflake, BigQuery
+  - **Databases**: SQL Server, PostgreSQL
   - **Data Engineering**: Medallion Architecture, Incremental Loads, DWH
   - **Cloud & Containers**: Docker, AWS
   - **Version Control**: Git  
 
-- 🚀 **Projects**:  
-  - Interactive dashboards, analytics, and production-ready data pipelines.
-  - Scalable star schema models for Power BI and real-time reporting.
 
 - 📫 **Reach Me**:  
   [mostafaelnagar.ds@gmail.com](mailto:mostafaelnagar.ds@gmail.com)
-
-- 📄 **More About Me**:  
-  - 📄 [View My Resume](https://github.com/Mostafa-Elnagar/resume/blob/main/mostafa_elnagar_resume.pdf)
 
 ---
 
